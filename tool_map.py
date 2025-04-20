@@ -16,5 +16,5 @@ tool_map = {
     "4.5": ("Để Chạy Tool Tăng Comment Pro5", "obf-tangcomment_pro5.py"),
     "4.6": ("Để Chạy Tool Tăng Like Page Pro5", "obf-tanglikepage_pro5.py"),
     "4.7": ("Để Chạy Tool Tăng Mem Group Pro5", "obf-tangmemgroup_pro5.py"),
-    "4.8": ("Để Chạy Tool Spam Messenger", "obf-spammessenger.py"),
+    "4.8": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
 }
