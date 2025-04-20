@@ -1,3 +1,4 @@
+def in_menu():
     print(f"{trang}╔" + "─" * width + "╗")
     print(f"{trang}|{xnhac}{'Golike'.center(width)}{trang}|")
     print(f"{trang}╚" + "─" * width + "╝")
