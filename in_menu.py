@@ -20,7 +20,7 @@ def in_menu():
     print(f"{trang}╔" + "─" * width + "╗")
     print(f"{trang}|{xnhac}{'Facebook'.center(width)}{trang}|")
     print(f"{trang}╚" + "─" * width + "╝")
-    for key in ["4.1", "4.2", "4.3", "4.4", "4.5", "4.6", "4.7", "4.8"]:
+    for key in ["4.1", "4.2", "4.3", "4.4"]:
         print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{tool_map[key][0]}')
 
     print(f"{trang}" + "─" * 57)
