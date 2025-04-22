@@ -9,7 +9,7 @@ tool_map = {
     "3.2": ("Để Chạy Tool TTC Pro5 \033[1;31mBảo trì", "obf-ttc_pro5.py"),
     "3.3": ("Để Chạy Tool TTC Instagram \033[1;31mBảo trì", "obf-ttc_instagram.py"),
     "3.4": ("Để Chạy Tool TTC TikTok \033[1;31mBảo trì", "obf-ttc_tiktok.py"),
-    "4.1": ("Để Chạy Tool Reg Pro5 \033[1;31mBảo trì", "obf-reg_pro5.py"),
+    "4.1": ("Để Chạy Tool Reg Pro5", "obf-reg_pro5.py"),
     "4.2": ("Để Chạy Tool Tăng Tương Tác Bằng Pro5 \033[1;36m(7 chế độ) \033[1;31mBảo trì", "obf-buffpro5.py"),
     "4.3": ("Để Chạy Tool Kết Bạn Gợi Ý", "obf-addfb.py"),
     "4.4": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
