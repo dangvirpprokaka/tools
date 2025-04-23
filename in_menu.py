@@ -23,4 +23,10 @@ def in_menu():
     for key in ["4.1", "4.2", "4.3", "4.4"]:
         print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{tool_map[key][0]}')
 
+    print(f"{trang}╔" + "─" * width + "╗")
+    print(f"{trang}|{xnhac}{'Tiktok'.center(width)}{trang}|")
+    print(f"{trang}╚" + "─" * width + "╝")
+    for key in ["5.1"]:
+        print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{tool_map[key][0]}')
+
     print(f"{trang}" + "─" * 57)
