@@ -7,7 +7,7 @@ tool_map = {
     "2.3": ("Để Chạy Tool TDS Instagram", "obf-tds_instagram.py"),
     "2.4": ("Để Chạy Tool TDS TikTok", "obf-tds_tiktok.py"),
     "3.1": ("Để Chạy Tool TTC Facebook", "obf-ttc_facebook.py"),
-    "3.2": ("Để Chạy Tool TTC Pro5 \033[1;31mBảo trì", "obf-ttc_pro5.py"),
+    "3.2": ("Để Chạy Tool TTC Pro5", "obf-ttc_pro5.py"),
     "3.3": ("Để Chạy Tool TTC Instagram \033[1;31mBảo trì", "obf-ttc_instagram.py"),
     "3.4": ("Để Chạy Tool TTC TikTok \033[1;31mBảo trì", "obf-ttc_tiktok.py"),
     "4.1": ("Để Chạy Tool Reg Pro5", "obf-reg_pro5.py"),
