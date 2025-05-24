@@ -14,5 +14,6 @@ tool_map = {
     "4.2": ("Để Chạy Tool Tăng Tương Tác Bằng Pro5 \033[1;36m(7 chế độ)", "obf-buffpro5.py"),
     "4.3": ("Để Chạy Tool Kết Bạn Gợi Ý", "obf-addfb.py"),
     "4.4": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
+    "4.5": ("Để Chạy Tool Get Cookie & Token", "obf-getcookie.py"),
     "5.1": ("Để Chạy Tool Tăng Tương Tác Tiktok", "obf-tiktok.py"),
 }
