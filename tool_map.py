@@ -1,7 +1,7 @@
 tool_map = {
     "1.1": ("Để Chạy Tool Golike Instagram", "obf-golike_instagram.py"),
     "1.2": ("Để Chạy Tool Golike Threads", "obf-golike_threads.py"),
-    "1.3": ("Để Chạy Tool Golike Tiktok", "obf-golike_snapchat.py"),
+    "1.3": ("Để Chạy Tool Golike Snapchat", "obf-golike_snapchat.py"),
     "1.4": ("Để Chạy Tool Golike Tiktok", "obf-golike_tiktok.py"),
     "2.1": ("Để Chạy Tool TDS Facebook", "obf-tds_facebook.py"),
     "2.2": ("Để Chạy Tool TDS Pro5", "obf-tds_pro5.py"),
