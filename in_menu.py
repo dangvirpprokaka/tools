@@ -2,7 +2,7 @@ def in_menu():
     print(f"{trang}╔" + "─" * width + "╗")
     print(f"{trang}|{xnhac}{'Golike'.center(width)}{trang}|")
     print(f"{trang}╚" + "─" * width + "╝")
-    for key in ["1.1", "1.2", "1.3", "1.4"]:
+    for key in ["1.1", "1.2", "1.3", "1.4", "1.5"]:
         print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{tool_map[key][0]}')
 
     print(f"{trang}╔" + "─" * width + "╗")
