@@ -1,14 +1,15 @@
 def in_menu():
-    # Gom nhóm theo tiền tố (prefix) trước dấu chấm
+    # Gom key theo prefix (số trước dấu chấm)
     grouped = {}
     for key in tool_map:
-        if '.' in key:
-            prefix = key.split('.')[0]
-            if prefix not in grouped:
-                grouped[prefix] = []
-            grouped[prefix].append(key)
+        if '.' not in key:
+            continue
+        prefix = key.split('.')[0]
+        if prefix not in grouped:
+            grouped[prefix] = []
+        grouped[prefix].append(key)
 
-    # Tiêu đề tương ứng cho từng nhóm
+    # Tên tiêu đề tương ứng theo prefix
     menu_titles = {
         "1": "Golike",
         "2": "Trao Đổi Sub",
@@ -17,7 +18,7 @@ def in_menu():
         "5": "Tiktok"
     }
 
-    # In ra menu
+    # In từng nhóm
     for prefix in sorted(menu_titles.keys(), key=int):
         if prefix not in grouped:
             continue
@@ -28,6 +29,7 @@ def in_menu():
         print(f"{trang}╚" + "─" * width + "╝")
 
         for key in sorted(grouped[prefix]):
-            print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{tool_map[key][0]}')
+            desc = tool_map[key][0]
+            print(f'{hdang}Nhập {do}[{vang}{key}{do}] {luc}{desc}')
 
     print(f"{trang}" + "─" * 57)
