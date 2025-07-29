@@ -17,9 +17,7 @@ tool_map = {
     "3.5": ("Để Chạy Tool TTC TikTok \033[1;36m(Auto Click)", "obf-ttc_tiktok.py"),
     "4.1": ("Để Chạy Tool Reg Pro5", "obf-reg_pro5.py"),
     "4.2": ("Để Chạy Tool Tăng Tương Tác Bằng Pro5 \033[1;36m(7 chế độ)", "obf-buffpro5.py"),
-    "4.3": ("Để Chạy Tool Kết Bạn Gợi Ý", "obf-addfb.py"),
-    "4.4": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
-    "4.5": ("Để Chạy Tool Get Cookie & Token", "obf-getcookie.py"),
-    "4.6": ("Để Chạy Tool Nuôi Facebook", "obf-nuoiacc.py"),
+    "4.3": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
+    "4.4": ("Để Chạy Tool Nuôi Facebook \033[1;36m(Thả Cảm Xúc, Bình Luận, Theo Dõi, Chia Sẻ, Like Page, Tham Gia Group, Thêm Bạn Bè)", "obf-nuoiacc.py"),
     "5.1": ("Để Chạy Tool Tăng Tương Tác Tiktok", "obf-tiktok.py"),
 }
