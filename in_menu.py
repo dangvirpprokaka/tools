@@ -15,7 +15,7 @@ def in_menu():
         "2": "Trao Đổi Sub",
         "3": "Tương Tác Chéo",
         "4": "Facebook",
-        "5": "Tiktok"
+        "5": "Tiện Ích Khác"
     }
 
     # In từng nhóm
