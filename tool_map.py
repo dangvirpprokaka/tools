@@ -21,5 +21,5 @@ tool_map = {
     "4.2": ("Để Chạy Tool Tăng Tương Tác Bằng Pro5 \033[1;36m(7 chế độ)", "obf-buffpro5.py"),
     "4.3": ("Để Chạy Tool Spam Messenger", "obf-messenger.py"),
     "4.4": ("Để Chạy Tool Nuôi Facebook \033[1;36m(Thả Cảm Xúc, Bình Luận, Theo Dõi, Chia Sẻ, Like Page, Tham Gia Group, Thêm Bạn Bè)", "obf-nuoiacc.py"),
-    "5.1": ("Để Chạy Tool Tăng Tương Tác Tiktok", "obf-tiktok.py"),
+    "5.1": ("Để Chạy Tool Xworld Vua Thoát Hiểm", "obf-xw_vth.py"),
 }
